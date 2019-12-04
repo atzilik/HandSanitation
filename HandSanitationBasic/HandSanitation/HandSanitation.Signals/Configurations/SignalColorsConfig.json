@@ -1,0 +1,18 @@
+[
+  {
+    "CurrentAction": "Complete",
+    "LedColor": "Green"
+  },
+  {
+    "CurrentAction": "EnteredTheRoom",
+    "LedColor": "Yellow"
+  },
+  {
+    "CurrentAction": "TagAttached",
+    "LedColor": "Blue"
+  },
+  {
+    "CurrentAction": "NotActive",
+    "LedColor": "Grey"
+  }
+]

@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandSanitation", "HandSanitation\HandSanitation.csproj", "{0992D5AE-3111-4340-A04A-33525B266E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandSanitation.ArduinoAccess", "HandSanitation.ArduinoAccess\HandSanitation.ArduinoAccess.csproj", "{42D748AC-1843-4D9F-9B2F-92224C5F5EA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandSanitation.Signals", "HandSanitation.Signals\HandSanitation.Signals.csproj", "{0274DE0F-76A6-4C31-A6BA-9D2DFA317B30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandSanitation.Core", "HandSanitation.Core\HandSanitation.Core.csproj", "{9475A943-95DD-4DE2-A63A-436A48AD69D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0992D5AE-3111-4340-A04A-33525B266E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0992D5AE-3111-4340-A04A-33525B266E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0992D5AE-3111-4340-A04A-33525B266E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0992D5AE-3111-4340-A04A-33525B266E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D748AC-1843-4D9F-9B2F-92224C5F5EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D748AC-1843-4D9F-9B2F-92224C5F5EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D748AC-1843-4D9F-9B2F-92224C5F5EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D748AC-1843-4D9F-9B2F-92224C5F5EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0274DE0F-76A6-4C31-A6BA-9D2DFA317B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0274DE0F-76A6-4C31-A6BA-9D2DFA317B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0274DE0F-76A6-4C31-A6BA-9D2DFA317B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0274DE0F-76A6-4C31-A6BA-9D2DFA317B30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9475A943-95DD-4DE2-A63A-436A48AD69D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9475A943-95DD-4DE2-A63A-436A48AD69D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9475A943-95DD-4DE2-A63A-436A48AD69D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9475A943-95DD-4DE2-A63A-436A48AD69D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {041BEEE9-72FB-4E8D-BE0A-35D6AA0D945D}
+	EndGlobalSection
+EndGlobal
